@@ -4,7 +4,7 @@ body {
 }
 
 .header {
-background-image: url("../../resources/images/sky.jpg")
+background-image: url("../images/sky.jpg")
 }
 
 .header h1 {
@@ -17,4 +17,25 @@ background-image: url("../../resources/images/sky.jpg")
   font-size: 18px;
   list-style: none;
   color: white;
+}
+
+.main h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.main h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.main p {
+  font-size: 14px;
+}
+
+#middle {
+  color: white;
+  font-weight: bold;
+  font-size: 23px;
+  background-image: url("../images/sky.jpg")
 }
