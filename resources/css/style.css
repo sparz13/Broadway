@@ -13,7 +13,7 @@ background-image: url("../images/sky.jpg")
   color: white;
 }
 
-.header a {
+.header a, .footer a {
   font-size: 18px;
   list-style: none;
   color: white;
@@ -38,4 +38,14 @@ background-image: url("../images/sky.jpg")
   font-weight: bold;
   font-size: 23px;
   background-image: url("../images/sky.jpg")
+}
+
+.footer {
+  background-color: dimgray;
+  text-align: left;
+}
+
+.footer p {
+  font-size: 11px;
+  color: white;
 }
