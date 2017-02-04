@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+.header {
+background-image: url("../../resources/images/sky.jpg")
+}
+
+.header h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.header a {
+  font-size: 18px;
+  list-style: none;
+  color: white;
+}
